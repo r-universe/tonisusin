@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "coda4microbiome"]
 	path = coda4microbiome
 	url = https://github.com/cran/coda4microbiome
-	shallow = true
-	registered = true
